@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    background: linear-gradient(180deg, #06061C 0%, #FFFFFF 52.96%, #040320 89.5%);
+    width: 100%;
+    z-index: 0;
+
+}
+.home-container{
+    top: 100px;
+    padding: 40px 10px 40px 10px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+#ha{
+    display: none;
+}
